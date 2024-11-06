@@ -30,9 +30,6 @@ All parts of a file name are ...
 
 ## TYPES and Examples
 
-Go to `/examples/` for actual examples and files, which you can download for testing.
-
-
 ### `invoice`
 
 For all invoice documents.
@@ -42,6 +39,9 @@ For all invoice documents.
 **Example:**
 
 `2024-10-21_invoice_sofa-king-inc_john-doe_cushy-king-couch-8979803411.pdf`
+
+
+---
 
 
 ### `receipt`
@@ -55,6 +55,9 @@ For all receipt documents, e.g. cash receipts.
 `2024-10-12_receipt_thai-tanic_john-doe_dinner-with-acme-inc-89720984.pdf`
 
 
+---
+
+
 ### `certificate`
 
 For, e.g. Birth certificate, school certificates, etc.
@@ -64,6 +67,9 @@ For, e.g. Birth certificate, school certificates, etc.
 **Example:**
 
 `yyyy-mm-dd_certificate_mirthful-maternity-clinic_recipient_birth-certificate.pdf`
+
+
+---
 
 
 ### `letter`
@@ -77,6 +83,9 @@ For all general communication documents.
 `2024-03-31_letter_penurious-bank-inc_john-doe_bank-account-statement-2024-03-xx75512108001245126199.pdf`
 
 
+---
+
+
 ### `contract`
 
 For, e.g. rental agreements, employment contracts, mandates, etc.
@@ -86,6 +95,9 @@ For, e.g. rental agreements, employment contracts, mandates, etc.
 **Example:**
 
 `2020-02-02_contract_gongshow-inc_john-doe_employment-contract.pdf`
+
+
+---
 
 
 ### `article`
@@ -99,6 +111,9 @@ Newspaper articles, blog articles, publications, etc.
 `2024-11-06_article_absurdistan-times.com_us-election-results-2024.pdf`
 
 
+---
+
+
 ### `clippings`
 
 Clippings documents created from, e.g. ebooks, articles, etc.
@@ -108,6 +123,9 @@ Clippings documents created from, e.g. ebooks, articles, etc.
 **Example:**
 
 `2024-06-27_clippings_barry-schwartz-the-paradox-of-choice-2005.txt`
+
+
+---
 
 
 ### `diary`
@@ -121,6 +139,9 @@ Daily notes, diary documents.
 `2024-04-02_john-doe_diary.txt`
 
 
+---
+
+
 ### `document`
 
 For documents that do not match any other specific TYPE.
@@ -130,6 +151,9 @@ For documents that do not match any other specific TYPE.
 **Example:**
 
 `2024-05-16_document_event-inc_john-doe_midwest-princess-pageant-ticket-1995390976.pdf`
+
+
+---
 
 
 ### `offer`
@@ -143,6 +167,9 @@ For written offers received and made.
 `2023-09-01_offer_john-doe_vibetide-inc_website-redesign-1290.pdf`
 
 
+---
+
+
 ### `coo`
 
 For order confirmations.
@@ -152,6 +179,9 @@ For order confirmations.
 **Example:**
 
 `2023-12-27_coo_shiver-daddy-inc_john-doe_refrigerator-coolio-1-53228398.pdf`
+
+
+---
 
 
 ### `manual` 
