@@ -165,3 +165,53 @@ Instruction manuals, assembly instructions, etc.
 **Example:**
 
 `2024-01-14_manual_shiver-daddy-inc_refrigerator-coolio-1.pdf`
+
+
+## Character conversion
+
+| Char | Conversion |
+| ---  | --- |
+| ä | ae |
+| ö | oe |
+| ü | ue |
+| ß | ss |
+| ä | ae |
+| æ | ae |
+| œ | oe |
+| ø | oe |
+| å | aa |
+| ð | eth |
+| š | s |
+| ž | z |
+| õ | oe |
+| ë | e |
+| α | alpha |
+| $ | dollar |
+| € | euro |
+
+
+## Illegal characters
+
+* `#` pound
+* `%` percent
+* `&` ampersand
+* `{` left curly bracket
+* `}` right curly bracket
+* `\` back slash
+* `<` left angle bracket
+* `>` right angle bracket
+* `*` asterisk
+* `?` question mark
+* `/` forward slash
+* ` ` blank spaces
+* `$` dollar sign
+* `!` exclamation point
+* `'` single quotes
+* `"` double quotes
+* `:` colon
+* `@` at sign
+* `+` plus sign
+* `\`` backtick
+* `|` pipe
+* `=` equal sign
+* emojis
