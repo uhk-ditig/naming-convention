@@ -220,9 +220,10 @@ Instruction manuals, assembly instructions, etc.
 
 ## Illegal characters
 
+* `.` perdiod (only use to separate file name and extension)
+* `,` comma
 * `#` pound
 * `%` percent
-* `&` ampersand
 * `{` left curly bracket
 * `}` right curly bracket
 * `\` back slash
@@ -233,13 +234,15 @@ Instruction manuals, assembly instructions, etc.
 * `/` forward slash
 * ` ` blank spaces
 * `$` dollar sign
+* `€` euro sign
 * `!` exclamation point
-* `'` single quotes
 * `"` double quotes
+* `“` double quotes
+* `„` double quotes
 * `:` colon
 * `@` at sign
 * `+` plus sign
-* `\`` backtick
+* `` ` `` backtick
 * `|` pipe
 * `=` equal sign
 * emojis
